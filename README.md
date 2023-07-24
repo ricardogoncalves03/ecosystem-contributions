@@ -137,10 +137,6 @@ As of 2023-05-25, the following Governance Grant programs are currently active o
 
 We want to do everything can to help you be successful while working on your contribution. Here you'll find various resources and communities that may help you complete a project. Please also feel free to ask for support directly in the comments of the GitHub issue that corresponds to the project that you're working on. Members of the Optimism community check these comments daily to provide support.
 
-### Communities
-
-- [Optimism Discord](https://discord.gg/optimism)
-- [Optimism Governance Forum](https://gov.optimism.io)
 
 ### Reference Material
 
